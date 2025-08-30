@@ -12,13 +12,16 @@ Este repositório apresenta uma análise das tendências do mercado de trabalho 
 ## 📈 Exemplos de gráficos
 
 ### Hard Skills mais requisitadas
-![Hard Skills](./imagens/hard_skills.png)
+![Hard Skills](<img width="1600" height="1000" alt="hard_skills" src="https://github.com/user-attachments/assets/277d6554-7d99-4020-bf50-34944519ed43" />
+)
 
 ### Soft Skills mais valorizadas
-![Soft Skills](./imagens/soft_skills.png)
+![Soft Skills](<img width="1600" height="1000" alt="soft_skills" src="https://github.com/user-attachments/assets/0fb17f95-07ba-466e-85de-621771d68eff" />
+)
 
 ### Comparativo de Faixas Salariais
-![Salários TI](./imagens/salarios_TI.png)
+![Salários TI](<img width="1600" height="1000" alt="salarios_TI" src="https://github.com/user-attachments/assets/d71a254a-5892-4f38-8179-b16535171b42" />
+)
 
 ## 🚀 Próximos passos
 - Aprofundar análise em vagas específicas por região (ex: Rio de Janeiro, São Paulo).
